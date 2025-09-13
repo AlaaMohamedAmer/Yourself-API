@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net9.0",
+    "\\bin\\Release",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\net9.0",
+    "\\obj\\Release",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\obj\\Release\\net9.0",
+  "PreviewInSolutionExplorer": false
+}
